@@ -17,8 +17,8 @@ To find longest common subsequence using Dynamic Programming.
 ## Program:
 ```
 Program to implement the longest common subsequence using Dynamic Programming
-Developed by: Karthick Raja K
-Register Number: 212223240066
+Developed by: Popuri Sravani
+Register Number: 212223240117
 ```
 ```py
 def lcs(X, Y):
