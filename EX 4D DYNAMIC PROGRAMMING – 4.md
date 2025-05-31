@@ -16,8 +16,8 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 ## Program:
 ```
 Program to implement to find the minimum number of operations to convert str1 to str2 using Naive recursive method
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Karthick Raja K
+Register Number: 212223240066
 ```
 
 ```py
